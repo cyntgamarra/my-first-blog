@@ -25,7 +25,7 @@ SECRET_KEY = 'x9=qpf(aap&gmkc+es)t((*e90aepe%4t%5jk*nu*=y-h_x@^3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<cyntgamarra.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cyntgamarra.pythonanywhere.com' ]
 
 
 # Application definition
